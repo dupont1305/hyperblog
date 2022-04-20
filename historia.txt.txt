@@ -3,4 +3,14 @@ esta es la historia de angela
 angela tiene 37 años y vive en manizales, 
 caldas colobia viviendo en todo el mundo
 
+<<<<<<< Updated upstream
+=======
+experimento 1
+
+experimento 2
+
+master 1
+
+master 2
+>>>>>>> Stashed changes
 hoy hablaremos de su historia de su vida y obra maestra
