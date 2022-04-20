@@ -10,5 +10,6 @@ Es un blog invreible para el curso de git github(http://platzi.com/cursos/git.gi
 - el verdadero amor por las buenas practicas
 - trucos muy locos del preofesor
 - el estres que genera las clases de freddy
+- creado por el increible platzi team
 
  Y como un amable recordatorio "es este readme.md es un chiste"  diseñado para el ejemplo. si llegas aca no te lo tomes enserio y mejor ve el curso[http://platzi.com/cursos/git.github/](http://platzi.com/cursos/git.github/)
